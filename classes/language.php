@@ -83,4 +83,9 @@ class language extends instance implements iLanguage
 	{
 		return NULL;
 	}
+
+	public function remove ()
+	{
+		return NULL;
+	}
 }
