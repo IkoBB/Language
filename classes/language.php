@@ -78,4 +78,9 @@ class language extends instance implements iLanguage
 	{
 		return $this->languages;
 	}
+
+	public function add ()
+	{
+		return NULL;
+	}
 }
